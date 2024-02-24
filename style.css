@@ -20,7 +20,8 @@ body {
 
 .sound {
     display: flex;
-    justify-content: center2;
+    background-color: #129799;
+    justify-content: center;
 }
 
 .container {
